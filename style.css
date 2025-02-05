@@ -105,7 +105,7 @@ button:hover {
 }
 
 #popupMessage {
-  color: #fff;
+  color: rgb(207, 220, 226);
   /* background-color: aqua; */
   /* width: 50px; */
   margin-bottom: 20px;
