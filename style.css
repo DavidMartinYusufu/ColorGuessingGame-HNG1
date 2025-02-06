@@ -25,7 +25,7 @@
   font-size: 30px;
   color: #3c8d8a;
   font-weight: 700;
-  /* text-align: center; */
+  text-align: center;
   padding-left: 6px;
   padding-right: 6px;
 }
@@ -90,6 +90,7 @@ button {
   background-color: #c7a762;
   color: #fff;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 button:hover {
